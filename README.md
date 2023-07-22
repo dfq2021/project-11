@@ -6,7 +6,7 @@ impl sm2 with RFC6979
 此外Python语言实现了SM2算法
 # 实验结果
 ![image](https://github.com/jlwdfq/project-11/assets/129512207/95a93fd5-a0b5-4531-8e72-f5063886732b)
-
+运行速度：0.05s
 # 实验环境
 Windows10 
 
