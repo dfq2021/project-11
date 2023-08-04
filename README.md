@@ -8,8 +8,8 @@ impl sm2 with RFC6979
 ![image](https://github.com/jlwdfq/project-11/assets/129512207/95a93fd5-a0b5-4531-8e72-f5063886732b)
 运行速度：0.05s
 # 实验环境
-Windows10 
-
-pycharm 2022
-
-CPU：11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+| 语言  | 系统      | 平台   | 处理器                     |
+|-------|-----------|--------|----------------------------|
+| python| Windows10 | pycharm| Intel(R) Core(TM)i7-11800H |
+# 小组分工
+戴方奇 202100460092 单人组完成project11
